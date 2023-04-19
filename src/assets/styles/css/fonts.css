@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Conthrax Sb";
+    src: url('../../fonts/conthrax-sb.ttf') format('truetype'),
+        url('../../fonts/conthrax-sb-webfont.woff') format('woff'),
+        url('../../fonts/conthrax-sb-webfont.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url('../../fonts/OpenSans.ttf') format('truetype'),
+        url('../../fonts/opensans-webfont.woff') format('woff'),
+        url('../../fonts/opensans-webfont.woff2') format('woff2');
+}
